@@ -50,7 +50,7 @@ This will process the images and save the colorized versions in an output direct
 The program generates colorized images like:
 | Original | Enhanced | Jet | Viridis | Plasma | Custom |
 |----------|----------|------|---------|--------|--------|
-| ![Original](images/original.jpg) | ![Enhanced](images/enhanced.jpg) | ![Jet](images/jet.jpg) | ![Viridis](images/viridis.jpg) | ![Plasma](images/plasma.jpg) | ![Custom](images/custom.jpg) |
+| ![Original](Images/Original.jpg) | ![Enhanced](Images/Enhanced.jpg) | ![Jet](Images/Jet.jpg) | ![Viridis](Images/Viridis.jpg) | ![Plasma](Images/Plasma.jpg) | ![Custom](Images/Custom.jpg) |
 
 ## 📜 License
 This project is open-source and available under the **MIT License**.
