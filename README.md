@@ -60,5 +60,5 @@ Feel free to fork this repository, open issues, or submit pull requests to impro
 
 ---
 ### 📬 Contact
-For any questions or collaborations, reach out via [your email or GitHub profile link].
+For any questions or collaborations, reach out via [vedant28kudalkar@gmail.com].
 
